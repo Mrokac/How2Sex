@@ -1,0 +1,11 @@
+{
+  "silo-alarm": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "howsex:silo-alarm",
+        "stream": false
+      }
+    ]
+  }
+}
