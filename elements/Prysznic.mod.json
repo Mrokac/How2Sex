@@ -5,7 +5,7 @@
     "achievementName": "Prysznic",
     "achievementDescription": "Umyj się",
     "achievementIcon": {
-      "value": "Blocks.FLOWING_WATER"
+      "value": "Blocks.CORNFLOWER"
     },
     "background": "Default",
     "disableDisplay": false,

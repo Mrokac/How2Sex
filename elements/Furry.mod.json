@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Furry",
-    "achievementDescription": "Zabij sie",
+    "achievementDescription": "Wyruchaj psa",
     "achievementIcon": {
       "value": "Items.LEAD"
     },

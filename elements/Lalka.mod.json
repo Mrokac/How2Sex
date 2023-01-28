@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Lalka",
-    "achievementDescription": "Taka fajna lalka",
+    "achievementDescription": "Wyruchaj lalke",
     "achievementIcon": {
       "value": "Items.ARMOR_STAND"
     },
