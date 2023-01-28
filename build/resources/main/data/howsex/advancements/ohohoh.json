@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": {
+      "translate": "advancements.ohohoh.title"
+    },
+    "description": {
+      "translate": "advancements.ohohoh.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ohohoh": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "howsex:siur"
+}

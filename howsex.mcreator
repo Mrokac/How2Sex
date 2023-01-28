@@ -7,14 +7,149 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "nigger"
+    },
+    {
+      "name": "Prysznic",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prysznic"
+    },
+    {
+      "name": "Wyjdznadwor",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wyjdznadwor"
+    },
+    {
+      "name": "Cucumber",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cucumber"
+    },
+    {
+      "name": "Branieprzysnica",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "branieprzysnica",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pedo",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pedo"
+    },
+    {
+      "name": "Furry",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furry"
+    },
+    {
+      "name": "PenisLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Penis",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis"
+    },
+    {
+      "name": "Siur",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siur"
+    },
+    {
+      "name": "Sex",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sex"
+    },
+    {
+      "name": "Lalka",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lalka"
+    },
+    {
+      "name": "OHOHOH",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ohohoh"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "advancements.nigger.descr": "big black cock!!!!!!!!!!!!!",
-      "advancements.nigger.title": "I Hate Nigger"
+      "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
+      "advancements.ohohoh.title": "OH OH OH",
+      "advancements.nigger.title": "How2Sex",
+      "advancements.wyjdznadwor.descr": "Dotknij trawy",
+      "item.howsex.penis": "Penis",
+      "advancements.wyjdznadwor.title": "Wyjdź na dwór",
+      "advancements.siur.title": "Siur",
+      "advancements.prysznic.title": "Prysznic",
+      "advancements.furry.descr": "Zabij sie",
+      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
+      "advancements.ohohoh.descr": "Wyruhaj coś",
+      "advancements.lalka.title": "Lalka",
+      "advancements.siur.descr": "siusiak hahahahha",
+      "advancements.sex.title": "Znajdź miłość",
+      "advancements.cucumber.title": "cuCUMber",
+      "advancements.nigger.descr": "Jak dotknąć kobiety?",
+      "advancements.pedo.descr": "Zrób to",
+      "advancements.furry.title": "Furry",
+      "advancements.lalka.descr": "Taka fajna lalka",
+      "advancements.prysznic.descr": "Umyj się",
+      "advancements.pedo.title": "EDP445"
     }
   },
   "foldersRoot": {

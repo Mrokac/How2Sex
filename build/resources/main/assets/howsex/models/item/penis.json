@@ -1,0 +1,7 @@
+{
+  "parent": "howsex:custom/siu",
+  "textures": {
+    "0": "howsex:blocks/siur",
+    "particle": "howsex:items/siur"
+  }
+}

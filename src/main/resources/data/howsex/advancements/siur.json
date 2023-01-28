@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "howsex:penis"
+    },
+    "title": {
+      "translate": "advancements.siur.title"
+    },
+    "description": {
+      "translate": "advancements.siur.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "siur": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "howsex:penis"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "howsex:cucumber"
+}

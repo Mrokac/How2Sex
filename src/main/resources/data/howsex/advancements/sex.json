@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": {
+      "translate": "advancements.sex.title"
+    },
+    "description": {
+      "translate": "advancements.sex.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sex": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "howsex:wyjdznadwor"
+}
