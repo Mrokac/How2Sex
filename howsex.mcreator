@@ -1,21 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "Nigger",
-      "type": "achievement",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "nigger"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "advancements.nigger.descr": "aaaaaaaa",
-      "advancements.nigger.title": "Nigger"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
