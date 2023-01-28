@@ -1,0 +1,45 @@
+{
+  "howsex:nigger": {
+    "criteria": {
+      "nigger": "2023-01-28 20:05:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-01-28 20:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-01-28 20:08:06 +0100"
+    },
+    "done": true
+  },
+  "howsex:siur": {
+    "criteria": {
+      "siur": "2023-01-28 20:05:51 +0100"
+    },
+    "done": true
+  },
+  "howsex:ohohoh": {
+    "criteria": {
+      "ohohoh": "2023-01-28 20:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-01-28 20:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-01-28 20:05:20 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

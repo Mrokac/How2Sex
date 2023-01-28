@@ -23,6 +23,8 @@ import net.minecraft.network.protocol.Packet;
 import net.mcreator.howsex.init.HowsexModEntities;
 
 public class IntercontinentalThermonuclearBallisticMissileEntity extends Monster {
+	Goal goal = null;
+
 	public IntercontinentalThermonuclearBallisticMissileEntity(PlayMessages.SpawnEntity packet, Level world) {
 		this(HowsexModEntities.INTERCONTINENTAL_THERMONUCLEAR_BALLISTIC_MISSILE.get(), world);
 	}
@@ -67,5 +69,19 @@ public class IntercontinentalThermonuclearBallisticMissileEntity extends Monster
 		builder = builder.add(Attributes.ATTACK_DAMAGE, 3);
 		builder = builder.add(Attributes.FOLLOW_RANGE, 16);
 		return builder;
+	}
+
+	public void launch(Goal goal) {
+		this.goal = goal;
+	}
+
+	public class Goal {
+		public double x;
+		public double z;
+
+		public Goal(double x, double z) {
+			this.x = x;
+			this.z = z;
+		}
 	}
 }

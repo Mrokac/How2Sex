@@ -21,7 +21,7 @@
         "items": [
           {
             "items": [
-              "minecraft:grass"
+              "minecraft:grass_block"
             ],
             "count": {
               "min": 1,
