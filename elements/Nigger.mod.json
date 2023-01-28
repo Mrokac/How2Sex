@@ -2,16 +2,16 @@
   "_fv": 34,
   "_type": "achievement",
   "definition": {
-    "achievementName": "I Hate Nigger",
-    "achievementDescription": "big black cock!!!!!!!!!!!!!",
+    "achievementName": "How2Sex",
+    "achievementDescription": "Jak dotknąć kobiety?",
     "achievementIcon": {
-      "value": "Blocks.DIAMOND_ORE"
+      "value": "Blocks.RED_FLOWER#0"
     },
     "background": "Default",
     "disableDisplay": false,
     "showPopup": true,
-    "announceToChat": true,
-    "hideIfNotCompleted": true,
+    "announceToChat": false,
+    "hideIfNotCompleted": false,
     "rewardLoot": [],
     "rewardRecipes": [],
     "rewardFunction": "No function",
@@ -20,6 +20,6 @@
     "parent": {
       "value": "No parent: root"
     },
-    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"50\" y=\"51\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"tick\" x=\"64\" y=\"88\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
   }
 }

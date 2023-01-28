@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_bars"
+    },
+    "title": {
+      "translate": "advancements.pedo.title"
+    },
+    "description": {
+      "translate": "advancements.pedo.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "pedo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "howsex:ohohoh"
+}

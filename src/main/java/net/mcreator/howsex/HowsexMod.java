@@ -30,6 +30,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.howsex.init.HowsexModSounds;
+import net.mcreator.howsex.init.HowsexModItems;
 import net.mcreator.howsex.init.HowsexModEntities;
 
 import java.util.function.Supplier;
@@ -50,6 +51,7 @@ public class HowsexMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		HowsexModSounds.REGISTRY.register(bus);
 
+		HowsexModItems.REGISTRY.register(bus);
 		HowsexModEntities.REGISTRY.register(bus);
 
 	}

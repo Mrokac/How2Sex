@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:water"
+    },
+    "title": {
+      "translate": "advancements.prysznic.title"
+    },
+    "description": {
+      "translate": "advancements.prysznic.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "prysznic": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "howsex:nigger"
+}

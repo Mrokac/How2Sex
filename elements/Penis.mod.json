@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "siur",
+    "customModelName": "siu:default",
+    "name": "Penis",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 60,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onEntityHitWith": {
+      "name": "PenisLivingEntityIsHitWithItem"
+    },
+    "isFood": true,
+    "nutritionalValue": -1,
+    "saturation": -1.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": true,
+    "animation": "drink"
+  }
+}
