@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "howsex:okrzemki",
+    "count": 1
+  }
+}

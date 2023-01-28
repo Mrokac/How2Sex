@@ -80,10 +80,6 @@
           {
             "name": "sourceentity",
             "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
           }
         ]
       }
@@ -127,6 +123,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ohohoh"
+    },
+    {
+      "name": "Okrzemki",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemki"
+    },
+    {
+      "name": "Sranie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sranie"
+    },
+    {
+      "name": "Okrzemowanie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemowanie"
     }
   ],
   "variable_elements": [],
@@ -134,14 +154,15 @@
   "language_map": {
     "en_us": {
       "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
-      "advancements.ohohoh.title": "OHOHOH",
+      "advancements.ohohoh.title": "OH OH OH",
       "advancements.nigger.title": "How2Sex",
       "advancements.wyjdznadwor.descr": "Dotknij trawy",
       "item.howsex.penis": "Penis",
       "advancements.wyjdznadwor.title": "Wyjdź na dwór",
       "advancements.siur.title": "Siur",
+      "item.howsex.okrzemki": "Okrzemki",
       "advancements.prysznic.title": "Prysznic",
-      "advancements.furry.descr": "Zabij sie",
+      "advancements.furry.descr": "Wyruchaj psa",
       "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
       "advancements.ohohoh.descr": "Wyruhaj coś",
       "advancements.lalka.title": "Lalka",
@@ -151,7 +172,7 @@
       "advancements.nigger.descr": "Jak dotknąć kobiety?",
       "advancements.pedo.descr": "Zrób to",
       "advancements.furry.title": "Furry",
-      "advancements.lalka.descr": "Taka fajna lalka",
+      "advancements.lalka.descr": "Wyruchaj lalke",
       "advancements.prysznic.descr": "Umyj się",
       "advancements.pedo.title": "EDP445"
     }

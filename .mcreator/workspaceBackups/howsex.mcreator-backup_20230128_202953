@@ -80,10 +80,6 @@
           {
             "name": "sourceentity",
             "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
           }
         ]
       }
@@ -127,6 +123,54 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ohohoh"
+    },
+    {
+      "name": "Okrzemki",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemki"
+    },
+    {
+      "name": "Sranie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sranie"
+    },
+    {
+      "name": "Okrzemowanie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemowanie"
+    },
+    {
+      "name": "Opal",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opal"
+    },
+    {
+      "name": "Wodowanieditlenkukrzemu",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wodowanieditlenkukrzemu"
+    },
+    {
+      "name": "PancerzykOkrzemek",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancerzyk_okrzemek"
     }
   ],
   "variable_elements": [],
@@ -134,26 +178,29 @@
   "language_map": {
     "en_us": {
       "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
-      "advancements.ohohoh.title": "OHOHOH",
-      "advancements.nigger.title": "How2Sex",
+      "advancements.ohohoh.title": "OH OH OH",
       "advancements.wyjdznadwor.descr": "Dotknij trawy",
       "item.howsex.penis": "Penis",
       "advancements.wyjdznadwor.title": "Wyjdź na dwór",
       "advancements.siur.title": "Siur",
+      "item.howsex.okrzemki": "Okrzemki",
       "advancements.prysznic.title": "Prysznic",
-      "advancements.furry.descr": "Zabij sie",
-      "advancements.sex.descr": "Znajdź miłość",
+      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
       "advancements.ohohoh.descr": "Wyruhaj coś",
-      "advancements.lalka.title": "Lalka",
-      "advancements.siur.descr": "siusiak hahahahha",
-      "advancements.sex.title": "Sex",
+      "item.howsex.opal": "Opal",
+      "advancements.sex.title": "Znajdź miłość",
+      "item.howsex.pancerzyk_okrzemek": "Pancerzyk Okrzemek",
       "advancements.cucumber.title": "cuCUMber",
-      "advancements.nigger.descr": "Jak dotknąć kobiety?",
       "advancements.pedo.descr": "Zrób to",
       "advancements.furry.title": "Furry",
-      "advancements.lalka.descr": "Taka fajna lalka",
+      "advancements.lalka.descr": "Wyruchaj lalke",
       "advancements.prysznic.descr": "Umyj się",
-      "advancements.pedo.title": "EDP445"
+      "advancements.pedo.title": "EDP445",
+      "advancements.nigger.title": "How2Sex",
+      "advancements.furry.descr": "Wyruchaj psa",
+      "advancements.lalka.title": "Lalka",
+      "advancements.siur.descr": "siusiak hahahahha",
+      "advancements.nigger.descr": "Jak dotknąć kobiety?"
     }
   },
   "foldersRoot": {

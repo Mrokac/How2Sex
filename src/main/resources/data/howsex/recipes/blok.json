@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "1": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "2": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "3": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "6": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "7": {
+      "item": "howsex:pancerzyk_okrzemek"
+    },
+    "8": {
+      "item": "howsex:pancerzyk_okrzemek"
+    }
+  },
+  "result": {
+    "item": "howsex:ziemiaokrzemkowa",
+    "count": 1
+  }
+}

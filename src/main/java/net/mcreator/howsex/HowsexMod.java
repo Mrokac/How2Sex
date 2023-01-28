@@ -30,6 +30,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.howsex.init.HowsexModItems;
+import net.mcreator.howsex.init.HowsexModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -48,6 +49,7 @@ public class HowsexMod {
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+		HowsexModBlocks.REGISTRY.register(bus);
 		HowsexModItems.REGISTRY.register(bus);
 
 	}

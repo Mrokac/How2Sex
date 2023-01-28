@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "howsex:okrzemki"
+    },
+    "1": {
+      "item": "howsex:okrzemki"
+    },
+    "2": {
+      "item": "howsex:okrzemki"
+    },
+    "3": {
+      "item": "howsex:okrzemki"
+    },
+    "4": {
+      "item": "howsex:opal"
+    },
+    "5": {
+      "item": "howsex:okrzemki"
+    },
+    "6": {
+      "item": "howsex:okrzemki"
+    },
+    "7": {
+      "item": "howsex:okrzemki"
+    },
+    "8": {
+      "item": "howsex:okrzemki"
+    }
+  },
+  "result": {
+    "item": "howsex:pancerzyk_okrzemek",
+    "count": 8
+  }
+}
