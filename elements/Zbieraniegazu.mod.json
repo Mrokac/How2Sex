@@ -45,6 +45,9 @@
         "type": "button",
         "data": {
           "text": "Azot",
+          "onClick": {
+            "name": "Azotget"
+          },
           "width": 46,
           "height": 20,
           "name": "Azot",

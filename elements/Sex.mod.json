@@ -5,7 +5,7 @@
     "achievementName": "Znajdź miłość",
     "achievementDescription": "Miłość do ojczyzny i kudłatego mężczyzny",
     "achievementIcon": {
-      "value": "Items.SKULL#3"
+      "value": "Blocks.DOUBLE_PLANT#4"
     },
     "background": "Default",
     "disableDisplay": false,

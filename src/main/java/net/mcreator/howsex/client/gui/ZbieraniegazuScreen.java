@@ -11,6 +11,8 @@ import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.Minecraft;
 
 import net.mcreator.howsex.world.inventory.ZbieraniegazuMenu;
+import net.mcreator.howsex.network.ZbieraniegazuButtonMessage;
+import net.mcreator.howsex.HowsexMod;
 
 import java.util.HashMap;
 
@@ -114,6 +116,10 @@ public class ZbieraniegazuScreen extends AbstractContainerScreen<ZbieraniegazuMe
 		super.init();
 		this.minecraft.keyboardHandler.setSendRepeatsToGui(true);
 		this.addRenderableWidget(new Button(this.leftPos + 105, this.topPos + 5, 46, 20, Component.literal("Azot"), e -> {
+			if (true) {
+				HowsexMod.PACKET_HANDLER.sendToServer(new ZbieraniegazuButtonMessage(0, x, y, z));
+				ZbieraniegazuButtonMessage.handleButtonAction(entity, 0, x, y, z);
+			}
 		}));
 		this.addRenderableWidget(new Button(this.leftPos + 105, this.topPos + 24, 46, 20, Component.literal("Tlen"), e -> {
 		}));

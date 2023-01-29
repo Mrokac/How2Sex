@@ -347,6 +347,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyklon_b"
+    },
+    {
+      "name": "Zdobycgaz",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zdobycgaz"
+    },
+    {
+      "name": "Cyklon",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyklon"
     }
   ],
   "variable_elements": [],
