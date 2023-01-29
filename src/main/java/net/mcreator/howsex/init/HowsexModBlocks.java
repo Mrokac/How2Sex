@@ -11,9 +11,11 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.howsex.block.ZiemiaokrzemkowaBlock;
+import net.mcreator.howsex.block.NwmjaktonazwacBlock;
 import net.mcreator.howsex.HowsexMod;
 
 public class HowsexModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, HowsexMod.MODID);
 	public static final RegistryObject<Block> ZIEMIAOKRZEMKOWA = REGISTRY.register("ziemiaokrzemkowa", () -> new ZiemiaokrzemkowaBlock());
+	public static final RegistryObject<Block> NWMJAKTONAZWAC = REGISTRY.register("nwmjaktonazwac", () -> new NwmjaktonazwacBlock());
 }

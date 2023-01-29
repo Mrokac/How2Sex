@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "howsex:block/nwmjaktonazwac"
+    },
+    "facing=east": {
+      "model": "howsex:block/nwmjaktonazwac",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "howsex:block/nwmjaktonazwac",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "howsex:block/nwmjaktonazwac",
+      "y": 270
+    }
+  }
+}

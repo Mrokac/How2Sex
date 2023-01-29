@@ -2,42 +2,19 @@
   "_fv": 34,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Crafting",
+    "recipeType": "Brewing",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
-    "recipeSlots": [
-      {
-        "value": ""
-      },
-      {
-        "value": "Items.QUARTZ"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "Items.QUARTZ"
-      },
-      {
-        "value": "Items.QUARTZ"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "Items.WATER_BUCKET"
-      },
-      {
-        "value": ""
-      }
-    ],
-    "recipeReturnStack": {
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:THICK"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.QUARTZ"
+    },
+    "brewingReturnStack": {
       "value": "CUSTOM:Opal"
     },
     "name": "wodowanieditlenkukrzemu",

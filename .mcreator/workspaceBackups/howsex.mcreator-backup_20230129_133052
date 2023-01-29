@@ -1,0 +1,282 @@
+{
+  "mod_elements": [
+    {
+      "name": "Nigger",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nigger"
+    },
+    {
+      "name": "Prysznic",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prysznic"
+    },
+    {
+      "name": "Wyjdznadwor",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wyjdznadwor"
+    },
+    {
+      "name": "Cucumber",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cucumber"
+    },
+    {
+      "name": "Branieprzysnica",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "branieprzysnica",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pedo",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pedo"
+    },
+    {
+      "name": "Furry",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furry"
+    },
+    {
+      "name": "PenisLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Penis",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis"
+    },
+    {
+      "name": "Siur",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siur"
+    },
+    {
+      "name": "Sex",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sex"
+    },
+    {
+      "name": "Lalka",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lalka"
+    },
+    {
+      "name": "OHOHOH",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ohohoh"
+    },
+    {
+      "name": "Okrzemki",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemki"
+    },
+    {
+      "name": "Sranie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sranie"
+    },
+    {
+      "name": "Okrzemowanie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemowanie"
+    },
+    {
+      "name": "Opal",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opal"
+    },
+    {
+      "name": "Wodowanieditlenkukrzemu",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wodowanieditlenkukrzemu"
+    },
+    {
+      "name": "PancerzykOkrzemek",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancerzyk_okrzemek"
+    },
+    {
+      "name": "Opalowanie",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opalowanie"
+    },
+    {
+      "name": "Ziemiaokrzemkowa",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ziemiaokrzemkowa"
+    },
+    {
+      "name": "Blok",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blok"
+    },
+    {
+      "name": "Zyd",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zyd"
+    },
+    {
+      "name": "Kwarc",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kwarc"
+    },
+    {
+      "name": "Opala",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opala"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
+      "advancements.ohohoh.title": "OH OH OH",
+      "advancements.wyjdznadwor.descr": "Dotknij trawy",
+      "item.howsex.penis": "Penis",
+      "advancements.wyjdznadwor.title": "Wyjdź na dwór",
+      "advancements.siur.title": "Siur",
+      "item.howsex.okrzemki": "Okrzemki",
+      "advancements.prysznic.title": "Prysznic",
+      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
+      "advancements.ohohoh.descr": "Wyruhaj coś",
+      "item.howsex.opal": "Opal",
+      "advancements.sex.title": "Znajdź miłość",
+      "item.howsex.pancerzyk_okrzemek": "Pancerzyk Okrzemek",
+      "advancements.cucumber.title": "cuCUMber",
+      "advancements.opala.descr": "Stwórz opal.",
+      "advancements.pedo.descr": "Zrób to",
+      "advancements.furry.title": "Furry",
+      "advancements.lalka.descr": "Wyruchaj lalke",
+      "advancements.prysznic.descr": "Umyj się",
+      "advancements.pedo.title": "EDP445",
+      "advancements.nigger.title": "How2Sex",
+      "advancements.opala.title": "LGBT!!??!?!?!?!?!",
+      "advancements.furry.descr": "Wyruchaj psa",
+      "advancements.lalka.title": "Lalka",
+      "block.howsex.ziemiaokrzemkowa": "Ziemiaokrzemkowa",
+      "advancements.siur.descr": "siusiak hahahahha",
+      "advancements.kwarc.title": "Białe diamenty.",
+      "advancements.nigger.descr": "Jak dotknąć kobiety?",
+      "item.howsex.zyd": "Gwiazda Dawida",
+      "advancements.kwarc.descr": "Zdobądź kwarc."
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "howsex",
+    "modName": "How2Sex",
+    "version": "1.0.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.howsex",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

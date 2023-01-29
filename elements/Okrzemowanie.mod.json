@@ -10,16 +10,16 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.KELP"
       },
       {
         "value": ""
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Blocks.KELP"
       },
       {
         "value": "Blocks.KELP"

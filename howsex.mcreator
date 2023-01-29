@@ -195,10 +195,171 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blok"
+    },
+    {
+      "name": "Zyd",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zyd"
+    },
+    {
+      "name": "Kwarc",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kwarc"
+    },
+    {
+      "name": "Opala",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opala"
+    },
+    {
+      "name": "Azot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azot"
+    },
+    {
+      "name": "Azotget",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azotget",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cyjanek",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjanek"
+    },
+    {
+      "name": "Zbieraniegazu",
+      "type": "gui",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zbieraniegazu"
+    },
+    {
+      "name": "NwmjaktonazwacOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nwmjaktonazwac_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nwmjaktonazwac",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nwmjaktonazwac"
+    },
+    {
+      "name": "Cyjan",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjan"
+    },
+    {
+      "name": "Cyjanowodor",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjanowodor"
+    },
+    {
+      "name": "Cyjan2",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjan_2"
+    },
+    {
+      "name": "CyklonB",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyklon_b"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "odkurzacz",
+      "files": [
+        "vacuum_online-audio-converter.com"
+      ],
+      "category": "neutral",
+      "subtitle": "Wciąganie powietrza"
+    }
+  ],
   "language_map": {
     "en_us": {
       "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
@@ -208,24 +369,35 @@
       "advancements.wyjdznadwor.title": "Wyjdź na dwór",
       "advancements.siur.title": "Siur",
       "item.howsex.okrzemki": "Okrzemki",
-      "advancements.prysznic.title": "Prysznic",
-      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
       "advancements.ohohoh.descr": "Wyruhaj coś",
+      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
+      "advancements.prysznic.title": "Prysznic",
       "item.howsex.opal": "Opal",
       "advancements.sex.title": "Znajdź miłość",
       "item.howsex.pancerzyk_okrzemek": "Pancerzyk Okrzemek",
+      "item.howsex.cyklon_b": "Cyklon B",
       "advancements.cucumber.title": "cuCUMber",
+      "advancements.opala.descr": "Stwórz opal.",
       "advancements.pedo.descr": "Zrób to",
       "advancements.furry.title": "Furry",
       "advancements.lalka.descr": "Wyruchaj lalke",
       "advancements.prysznic.descr": "Umyj się",
       "advancements.pedo.title": "EDP445",
       "advancements.nigger.title": "How2Sex",
+      "item.howsex.cyjanek": "Cyjanek",
+      "item.howsex.azot": "Butla",
+      "advancements.opala.title": "LGBT!!??!?!?!?!?!",
+      "block.howsex.nwmjaktonazwac": "Nwmjaktonazwac",
       "advancements.furry.descr": "Wyruchaj psa",
       "advancements.lalka.title": "Lalka",
       "block.howsex.ziemiaokrzemkowa": "Ziemiaokrzemkowa",
       "advancements.siur.descr": "siusiak hahahahha",
-      "advancements.nigger.descr": "Jak dotknąć kobiety?"
+      "advancements.kwarc.title": "Ospermione diamenty.",
+      "advancements.nigger.descr": "Jak dotknąć kobiety?",
+      "item.howsex.zyd": "Gwiazda Dawida",
+      "subtitles.odkurzacz": "Wciąganie powietrza",
+      "item.howsex.cyjanowodor": "Cyjanowodor",
+      "advancements.kwarc.descr": "Zdobądź kwarc."
     }
   },
   "foldersRoot": {

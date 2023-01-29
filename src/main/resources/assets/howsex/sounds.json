@@ -1,0 +1,12 @@
+{
+  "odkurzacz": {
+    "category": "neutral",
+    "subtitle": "subtitles.odkurzacz",
+    "sounds": [
+      {
+        "name": "howsex:vacuum_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  }
+}
