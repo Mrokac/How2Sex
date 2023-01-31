@@ -1,1 +1,441 @@
-[{"0":{"name":"Nigger","type":"achievement","sortid":1,"compiles":true,"locked_code":false,"registry_name":"nigger"},"1":{"name":"IntercontinentalThermonuclearBallisticMissile","type":"livingentity","sortid":2,"compiles":true,"locked_code":true,"registry_name":"intercontinental_thermonuclear_ballistic_missile"},"2":{"name":"Lalka","type":"achievement","sortid":10,"compiles":true,"locked_code":false,"registry_name":"lalka"},"3":{"name":"OHOHOH","type":"achievement","sortid":11,"compiles":true,"locked_code":false,"registry_name":"ohohoh"},"4":{"name":"Siur","type":"achievement","sortid":8,"compiles":true,"locked_code":false,"registry_name":"siur"},"5":{"name":"Branieprzysnica","type":"procedure","sortid":5,"compiles":true,"locked_code":false,"registry_name":"branieprzysnica","metadata":{"dependencies":[{"name":"entity","type":"entity"}]}},"6":{"name":"Pedo","type":"achievement","sortid":6,"compiles":true,"locked_code":false,"registry_name":"pedo"},"7":{"name":"Penis","type":"item","sortid":6,"compiles":true,"locked_code":false,"registry_name":"penis"},"8":{"name":"Prysznic","type":"achievement","sortid":2,"compiles":true,"locked_code":false,"registry_name":"prysznic"},"9":{"name":"Sex","type":"achievement","sortid":9,"compiles":true,"locked_code":false,"registry_name":"sex"},"10":{"name":"Wyjdznadwor","type":"achievement","sortid":3,"compiles":true,"locked_code":false,"registry_name":"wyjdznadwor"},"11":{"name":"Furry","type":"achievement","sortid":7,"compiles":true,"locked_code":false,"registry_name":"furry"},"12":{"name":"Cucumber","type":"achievement","sortid":4,"compiles":true,"locked_code":false,"registry_name":"cucumber"},"13":{"name":"PenisLivingEntityIsHitWithItem","type":"procedure","sortid":6,"compiles":true,"locked_code":false,"registry_name":"penis_living_entity_is_hit_with_item","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"sourceentity","type":"entity"}]}},"14":{"name":"RocketSilo","type":"block","sortid":12,"compiles":true,"locked_code":false,"registry_name":"rocket_silo"},"15":{"name":"SiloGUI","type":"gui","sortid":13,"compiles":true,"locked_code":false,"registry_name":"silo_gui"},"16":{"name":"RocketSiloRedstoneOn","type":"procedure","sortid":14,"compiles":true,"locked_code":true,"registry_name":"rocket_silo_redstone_on","metadata":{"dependencies":[{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"17":{"name":"Reee","type":"procedure","sortid":15,"compiles":true,"locked_code":false,"registry_name":"reee","metadata":{"dependencies":[{"name":"itemstack","type":"itemstack"}]}},"18":{"name":"How2SexTab","type":"tab","sortid":16,"compiles":true,"locked_code":false,"registry_name":"how_2_sex_tab"},"19":{"name":"JewFormSubmit","type":"procedure","sortid":17,"compiles":true,"locked_code":false,"registry_name":"jew_form_submit","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"guistate","type":"map"}]}},"20":{"name":"Question","type":"gui","sortid":17,"compiles":true,"locked_code":true,"registry_name":"question"},"21":{"name":"GPSLocatorRightclickedOnBlock","type":"procedure","sortid":17,"compiles":true,"locked_code":false,"registry_name":"gps_locator_rightclicked_on_block","metadata":{"dependencies":[{"name":"itemstack","type":"itemstack"},{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"22":{"name":"GPSLocator","type":"item","sortid":16,"compiles":true,"locked_code":false,"registry_name":"gps_locator"},"23":{"name":"OpenJewForm","type":"procedure","sortid":18,"compiles":true,"locked_code":false,"registry_name":"open_jew_form","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"24":{"name":"BasicMissleItem","type":"item","sortid":19,"compiles":true,"locked_code":false,"registry_name":"basic_missile_item"},"25":{"name":"ExplosionMaker","type":"procedure","sortid":20,"compiles":true,"locked_code":true,"registry_name":"explosion_maker","metadata":{"dependencies":[{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"26":{"name":"GazCyklonBUpdateTick","type":"procedure","sortid":21,"compiles":true,"locked_code":false,"registry_name":"gaz_cyklon_b_update_tick","metadata":{"dependencies":[{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"27":{"name":"GazCyklonB","type":"block","sortid":21,"compiles":true,"locked_code":false,"registry_name":"gaz_cyklon_b"},"28":{"name":"SiloRecipe","type":"recipe","sortid":22,"compiles":true,"locked_code":false,"registry_name":"silo_recipe"}},{"0":{"name":"isJew","type":"number","scope":"player_persistent","value":"0"}},{"0":{"name":"silo-alarm","files":["silo-alarm"],"category":"neutral","subtitle":""},"1":{"name":"silo-rocket","files":["silo-rocket"],"category":"neutral","subtitle":""},"2":{"name":"silo-platform-error","files":["silo-platform-error"],"category":"neutral","subtitle":"Error! Launch failed! Launch platform not good!"},"3":{"name":"nut","files":["nut."],"category":"neutral","subtitle":""}},{"en_us":{"advancements.cucumber.descr":"Prawdopodobnie szukałeś tego cały dzień.","advancements.ohohoh.title":"OH OH OH","advancements.wyjdznadwor.descr":"Dotknij trawy","block.howsex.rocket_silo":"Rocket Silo","itemGroup.tabhow_2_sex_tab":"How 2 Sex","item.howsex.penis":"Penis","advancements.siur.title":"Siur","advancements.wyjdznadwor.title":"Wyjdź na dwór","advancements.sex.descr":"Miłość do ojczyzny i kudłatego mężczyzny","advancements.prysznic.title":"Prysznic","advancements.ohohoh.descr":"Wyruhaj coś","advancements.sex.title":"Znajdź miłość","subtitles.silo-alarm":"","advancements.cucumber.title":"cuCUMber","advancements.pedo.descr":"Zrób to","advancements.furry.title":"Furry","item.howsex.intercontinental_thermonuclear_ballistic_missile_spawn_egg":"Intercontinental Thermonuclear Ballistic Missile Spawn Egg","advancements.lalka.descr":"Taka fajna lalka","advancements.prysznic.descr":"Umyj się","block.howsex.gaz_cyklon_b":"Gaz Cyklon B","advancements.pedo.title":"EDP445","subtitles.silo-platform-error":"Error! Launch failed! Launch platform not good!","advancements.nigger.title":"How2Sex","subtitles.nut":"","item.howsex.basic_missile_item":"Podstawowy Pocisk Balistyczny","advancements.furry.descr":"Zabij sie","advancements.lalka.title":"Lalka","item.howsex.gps_locator":"GPS Locator","advancements.siur.descr":"siusiak hahahahha","subtitles.silo-rocket":"","advancements.nigger.descr":"Jak dotknąć kobiety?","entity.howsex.intercontinental_thermonuclear_ballistic_missile":"Intercontinental Thermonuclear Ballistic Missile"}},{"name":"~","children":[]},{"modid":"howsex","modName":"How2Sex","version":"1.0.0","author":"Admin, MCreator","websiteURL":"https://mcreator.net","license":"Academic Free License v3.0","disableForgeVersionCheck":true,"serverSideOnly":false,"requiredMods":[],"dependencies":[],"dependants":[],"mcreatorDependencies":[],"currentGenerator":"forge-1.19.2","modElementsPackage":"net.mcreator.howsex","lockBaseModFiles":false},{},{"0":{"name":"Nigger","type":"achievement","sortid":1,"compiles":true,"locked_code":false,"registry_name":"nigger"},"1":{"name":"Prysznic","type":"achievement","sortid":2,"compiles":true,"locked_code":false,"registry_name":"prysznic"},"2":{"name":"Wyjdznadwor","type":"achievement","sortid":3,"compiles":true,"locked_code":false,"registry_name":"wyjdznadwor"},"3":{"name":"Cucumber","type":"achievement","sortid":4,"compiles":true,"locked_code":false,"registry_name":"cucumber"},"4":{"name":"Branieprzysnica","type":"procedure","sortid":5,"compiles":true,"locked_code":false,"registry_name":"branieprzysnica","metadata":{"dependencies":[{"name":"entity","type":"entity"}]}},"5":{"name":"Pedo","type":"achievement","sortid":6,"compiles":true,"locked_code":false,"registry_name":"pedo"},"6":{"name":"Furry","type":"achievement","sortid":7,"compiles":true,"locked_code":false,"registry_name":"furry"},"7":{"name":"PenisLivingEntityIsHitWithItem","type":"procedure","sortid":6,"compiles":true,"locked_code":false,"registry_name":"penis_living_entity_is_hit_with_item","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"sourceentity","type":"entity"}]}},"8":{"name":"Penis","type":"item","sortid":6,"compiles":true,"locked_code":false,"registry_name":"penis"},"9":{"name":"Siur","type":"achievement","sortid":8,"compiles":true,"locked_code":false,"registry_name":"siur"},"10":{"name":"Sex","type":"achievement","sortid":9,"compiles":true,"locked_code":false,"registry_name":"sex"},"11":{"name":"Lalka","type":"achievement","sortid":10,"compiles":true,"locked_code":false,"registry_name":"lalka"},"12":{"name":"OHOHOH","type":"achievement","sortid":11,"compiles":true,"locked_code":false,"registry_name":"ohohoh"},"13":{"name":"Okrzemki","type":"item","sortid":12,"compiles":true,"locked_code":false,"registry_name":"okrzemki"},"14":{"name":"Sranie","type":"recipe","sortid":13,"compiles":true,"locked_code":false,"registry_name":"sranie"},"15":{"name":"Okrzemowanie","type":"recipe","sortid":14,"compiles":true,"locked_code":false,"registry_name":"okrzemowanie"},"16":{"name":"Opal","type":"item","sortid":15,"compiles":true,"locked_code":false,"registry_name":"opal"},"17":{"name":"Wodowanieditlenkukrzemu","type":"recipe","sortid":16,"compiles":true,"locked_code":false,"registry_name":"wodowanieditlenkukrzemu"},"18":{"name":"PancerzykOkrzemek","type":"item","sortid":17,"compiles":true,"locked_code":false,"registry_name":"pancerzyk_okrzemek"},"19":{"name":"Opalowanie","type":"recipe","sortid":18,"compiles":true,"locked_code":false,"registry_name":"opalowanie"},"20":{"name":"Ziemiaokrzemkowa","type":"block","sortid":17,"compiles":true,"locked_code":false,"registry_name":"ziemiaokrzemkowa"},"21":{"name":"Blok","type":"recipe","sortid":19,"compiles":true,"locked_code":false,"registry_name":"blok"},"22":{"name":"Zyd","type":"item","sortid":20,"compiles":true,"locked_code":false,"registry_name":"zyd"},"23":{"name":"Kwarc","type":"achievement","sortid":21,"compiles":true,"locked_code":false,"registry_name":"kwarc"},"24":{"name":"Opala","type":"achievement","sortid":22,"compiles":true,"locked_code":false,"registry_name":"opala"},"25":{"name":"Azot","type":"item","sortid":23,"compiles":true,"locked_code":false,"registry_name":"azot"},"26":{"name":"Azotget","type":"procedure","sortid":23,"compiles":true,"locked_code":false,"registry_name":"azotget","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"27":{"name":"Cyjanek","type":"item","sortid":24,"compiles":true,"locked_code":false,"registry_name":"cyjanek"},"28":{"name":"Zbieraniegazu","type":"gui","sortid":23,"compiles":true,"locked_code":false,"registry_name":"zbieraniegazu"},"29":{"name":"NwmjaktonazwacOnBlockRightClicked","type":"procedure","sortid":23,"compiles":true,"locked_code":false,"registry_name":"nwmjaktonazwac_on_block_right_clicked","metadata":{"dependencies":[{"name":"entity","type":"entity"},{"name":"x","type":"number"},{"name":"y","type":"number"},{"name":"z","type":"number"},{"name":"world","type":"world"}]}},"30":{"name":"Nwmjaktonazwac","type":"block","sortid":23,"compiles":true,"locked_code":false,"registry_name":"nwmjaktonazwac"},"31":{"name":"Cyjan","type":"recipe","sortid":25,"compiles":true,"locked_code":false,"registry_name":"cyjan"},"32":{"name":"Cyjanowodor","type":"item","sortid":26,"compiles":true,"locked_code":false,"registry_name":"cyjanowodor"},"33":{"name":"Cyjan2","type":"recipe","sortid":27,"compiles":true,"locked_code":false,"registry_name":"cyjan_2"},"34":{"name":"CyklonB","type":"item","sortid":28,"compiles":true,"locked_code":false,"registry_name":"cyklon_b"},"35":{"name":"Zdobycgaz","type":"recipe","sortid":29,"compiles":true,"locked_code":false,"registry_name":"zdobycgaz"},"36":{"name":"Cyklon","type":"recipe","sortid":30,"compiles":true,"locked_code":false,"registry_name":"cyklon"}},{},{"0":{"name":"odkurzacz","files":["vacuum_online-audio-converter.com"],"category":"neutral","subtitle":"Wciąganie powietrza"}},{"en_us":{"advancements.cucumber.descr":"Prawdopodobnie szukałeś tego cały dzień.","advancements.ohohoh.title":"OH OH OH","advancements.wyjdznadwor.descr":"Dotknij trawy","item.howsex.penis":"Penis","advancements.wyjdznadwor.title":"Wyjdź na dwór","advancements.siur.title":"Siur","item.howsex.okrzemki":"Okrzemki","advancements.ohohoh.descr":"Wyruhaj coś","advancements.sex.descr":"Miłość do ojczyzny i kudłatego mężczyzny","advancements.prysznic.title":"Prysznic","item.howsex.opal":"Opal","advancements.sex.title":"Znajdź miłość","item.howsex.pancerzyk_okrzemek":"Pancerzyk Okrzemek","item.howsex.cyklon_b":"Cyklon B","advancements.cucumber.title":"cuCUMber","advancements.opala.descr":"Stwórz opal.","advancements.pedo.descr":"Zrób to","advancements.furry.title":"Furry","advancements.lalka.descr":"Wyruchaj lalke","advancements.prysznic.descr":"Umyj się","advancements.pedo.title":"EDP445","advancements.nigger.title":"How2Sex","item.howsex.cyjanek":"Cyjanek","item.howsex.azot":"Butla","advancements.opala.title":"LGBT!!??!?!?!?!?!","block.howsex.nwmjaktonazwac":"Nwmjaktonazwac","advancements.furry.descr":"Wyruchaj psa","advancements.lalka.title":"Lalka","block.howsex.ziemiaokrzemkowa":"Ziemiaokrzemkowa","advancements.siur.descr":"siusiak hahahahha","advancements.kwarc.title":"Ospermione diamenty.","advancements.nigger.descr":"Jak dotknąć kobiety?","item.howsex.zyd":"Gwiazda Dawida","subtitles.odkurzacz":"Wciąganie powietrza","item.howsex.cyjanowodor":"Cyjanowodor","advancements.kwarc.descr":"Zdobądź kwarc."}},{"name":"~","children":[]},{"modid":"howsex","modName":"How2Sex","version":"1.0.0","author":"Admin, MCreator","websiteURL":"https://mcreator.net","license":"Academic Free License v3.0","disableForgeVersionCheck":true,"serverSideOnly":false,"requiredMods":[],"dependencies":[],"dependants":[],"mcreatorDependencies":[],"currentGenerator":"forge-1.19.2","modElementsPackage":"net.mcreator.howsex","lockBaseModFiles":false},{}]
+{
+  "mod_elements": [
+    {
+      "name": "Nigger",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nigger"
+    },
+    {
+      "name": "Prysznic",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prysznic"
+    },
+    {
+      "name": "Wyjdznadwor",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wyjdznadwor"
+    },
+    {
+      "name": "Cucumber",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cucumber"
+    },
+    {
+      "name": "Branieprzysnica",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "branieprzysnica",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pedo",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pedo"
+    },
+    {
+      "name": "Furry",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furry"
+    },
+    {
+      "name": "PenisLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Penis",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis"
+    },
+    {
+      "name": "Siur",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siur"
+    },
+    {
+      "name": "Sex",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sex"
+    },
+    {
+      "name": "Lalka",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lalka"
+    },
+    {
+      "name": "OHOHOH",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ohohoh"
+    },
+    {
+      "name": "Okrzemki",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemki"
+    },
+    {
+      "name": "Sranie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sranie"
+    },
+    {
+      "name": "Okrzemowanie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okrzemowanie"
+    },
+    {
+      "name": "Opal",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opal"
+    },
+    {
+      "name": "Wodowanieditlenkukrzemu",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wodowanieditlenkukrzemu"
+    },
+    {
+      "name": "PancerzykOkrzemek",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancerzyk_okrzemek"
+    },
+    {
+      "name": "Opalowanie",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opalowanie"
+    },
+    {
+      "name": "Ziemiaokrzemkowa",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ziemiaokrzemkowa"
+    },
+    {
+      "name": "Blok",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blok"
+    },
+    {
+      "name": "Zyd",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zyd"
+    },
+    {
+      "name": "Kwarc",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kwarc"
+    },
+    {
+      "name": "Opala",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opala"
+    },
+    {
+      "name": "Azot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azot"
+    },
+    {
+      "name": "Azotget",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azotget",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cyjanek",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjanek"
+    },
+    {
+      "name": "Zbieraniegazu",
+      "type": "gui",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zbieraniegazu"
+    },
+    {
+      "name": "NwmjaktonazwacOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nwmjaktonazwac_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nwmjaktonazwac",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nwmjaktonazwac"
+    },
+    {
+      "name": "Cyjan",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjan"
+    },
+    {
+      "name": "Cyjanowodor",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjanowodor"
+    },
+    {
+      "name": "Cyjan2",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyjan_2"
+    },
+    {
+      "name": "CyklonB",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyklon_b"
+    },
+    {
+      "name": "Zdobycgaz",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zdobycgaz"
+    },
+    {
+      "name": "Cyklon",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyklon"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "odkurzacz",
+      "files": [
+        "vacuum_online-audio-converter.com"
+      ],
+      "category": "neutral",
+      "subtitle": "Wciąganie powietrza"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "advancements.cucumber.descr": "Prawdopodobnie szukałeś tego cały dzień.",
+      "advancements.ohohoh.title": "OH OH OH",
+      "advancements.wyjdznadwor.descr": "Dotknij trawy",
+      "item.howsex.penis": "Penis",
+      "advancements.wyjdznadwor.title": "Wyjdź na dwór",
+      "advancements.siur.title": "Siur",
+      "item.howsex.okrzemki": "Okrzemki",
+      "advancements.ohohoh.descr": "Wyruhaj coś",
+      "advancements.sex.descr": "Miłość do ojczyzny i kudłatego mężczyzny",
+      "advancements.prysznic.title": "Prysznic",
+      "item.howsex.opal": "Opal",
+      "advancements.sex.title": "Znajdź miłość",
+      "item.howsex.pancerzyk_okrzemek": "Pancerzyk Okrzemek",
+      "item.howsex.cyklon_b": "Cyklon B",
+      "advancements.cucumber.title": "cuCUMber",
+      "advancements.opala.descr": "Stwórz opal.",
+      "advancements.pedo.descr": "Zrób to",
+      "advancements.furry.title": "Furry",
+      "advancements.lalka.descr": "Wyruchaj lalke",
+      "advancements.prysznic.descr": "Umyj się",
+      "advancements.pedo.title": "EDP445",
+      "advancements.nigger.title": "How2Sex",
+      "item.howsex.cyjanek": "Cyjanek",
+      "item.howsex.azot": "Butla",
+      "advancements.opala.title": "LGBT!!??!?!?!?!?!",
+      "block.howsex.nwmjaktonazwac": "Nwmjaktonazwac",
+      "advancements.furry.descr": "Wyruchaj psa",
+      "advancements.lalka.title": "Lalka",
+      "block.howsex.ziemiaokrzemkowa": "Ziemiaokrzemkowa",
+      "advancements.siur.descr": "siusiak hahahahha",
+      "advancements.kwarc.title": "Ospermione diamenty.",
+      "advancements.nigger.descr": "Jak dotknąć kobiety?",
+      "item.howsex.zyd": "Gwiazda Dawida",
+      "subtitles.odkurzacz": "Wciąganie powietrza",
+      "item.howsex.cyjanowodor": "Cyjanowodor",
+      "advancements.kwarc.descr": "Zdobądź kwarc."
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "howsex",
+    "modName": "How2Sex",
+    "version": "1.0.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.howsex",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
