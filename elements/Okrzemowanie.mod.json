@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.KELP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.KELP"
+      },
+      {
+        "value": "Blocks.KELP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Okrzemki"
+    },
+    "name": "okrzemowanie",
+    "namespace": "mod"
+  }
+}

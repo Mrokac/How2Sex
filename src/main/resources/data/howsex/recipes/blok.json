@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "howsex:pancerzyk_okrzemek"
+  },
+  "addition": {
+    "item": "minecraft:coarse_dirt"
+  },
+  "result": {
+    "item": "howsex:ziemiaokrzemkowa"
+  }
+}

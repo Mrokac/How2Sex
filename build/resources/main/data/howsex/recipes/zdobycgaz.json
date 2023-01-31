@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:hopper"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:polished_andesite"
+    },
+    "7": {
+      "item": "minecraft:polished_andesite"
+    },
+    "8": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "howsex:nwmjaktonazwac",
+    "count": 1
+  }
+}

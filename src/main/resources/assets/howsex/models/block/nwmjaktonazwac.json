@@ -1,0 +1,9 @@
+{
+  "parent": "howsex:custom/powietrzeee",
+  "textures": {
+    "all": "howsex:blocks/powietrze",
+    "particle": "howsex:blocks/powietrze",
+    "0": "howsex:blocks/powietrze"
+  },
+  "render_type": "solid"
+}

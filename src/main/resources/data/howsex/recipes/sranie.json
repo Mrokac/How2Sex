@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:sea_pickle"
+    },
+    "4": {
+      "item": "minecraft:bone"
+    },
+    "6": {
+      "item": "minecraft:egg"
+    },
+    "7": {
+      "item": "minecraft:milk_bucket"
+    },
+    "8": {
+      "item": "minecraft:turtle_egg"
+    }
+  },
+  "result": {
+    "item": "howsex:penis",
+    "count": 1
+  }
+}

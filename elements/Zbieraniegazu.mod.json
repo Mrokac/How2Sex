@@ -1,0 +1,189 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Insert Fuel",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Insert Fuel",
+          "x": 131,
+          "y": 67
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.DIAMOND"
+          },
+          "color": {
+            "value": -16711681,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 150,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Azot",
+          "onClick": {
+            "name": "Azotget"
+          },
+          "width": 46,
+          "height": 20,
+          "name": "Azot",
+          "x": 231,
+          "y": 42
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 198,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tlen",
+          "width": 46,
+          "height": 20,
+          "name": "Tlen",
+          "x": 231,
+          "y": 61
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaa.png",
+          "use1Xscale": false,
+          "name": "aaaa.png",
+          "x": 198,
+          "y": 18
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaa.png",
+          "x": 198,
+          "y": 65
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaa.png",
+          "x": 198,
+          "y": 49
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 168,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 182,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 207,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 215,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 207,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaa.png",
+          "x": 198,
+          "y": 34
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aaaaaaaaaaaaa.png",
+          "use1Xscale": false,
+          "name": "aaaaaaaaaaaaa.png",
+          "x": 221,
+          "y": 41
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

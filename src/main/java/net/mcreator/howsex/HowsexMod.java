@@ -29,13 +29,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
-import net.mcreator.howsex.init.HowsexModTabs;
 import net.mcreator.howsex.init.HowsexModSounds;
 import net.mcreator.howsex.init.HowsexModMenus;
 import net.mcreator.howsex.init.HowsexModItems;
-import net.mcreator.howsex.init.HowsexModEntities;
 import net.mcreator.howsex.init.HowsexModBlocks;
-import net.mcreator.howsex.init.HowsexModBlockEntities;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -51,13 +48,11 @@ public class HowsexMod {
 
 	public HowsexMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-		HowsexModTabs.load();
+
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		HowsexModSounds.REGISTRY.register(bus);
 		HowsexModBlocks.REGISTRY.register(bus);
 		HowsexModItems.REGISTRY.register(bus);
-		HowsexModEntities.REGISTRY.register(bus);
-		HowsexModBlockEntities.REGISTRY.register(bus);
 
 		HowsexModMenus.REGISTRY.register(bus);
 

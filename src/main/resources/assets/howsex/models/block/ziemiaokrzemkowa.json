@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "howsex:blocks/ziemokrzem",
+    "up": "howsex:blocks/ziemokrzem",
+    "north": "howsex:blocks/ziemokrzem",
+    "east": "howsex:blocks/ziemokrzem",
+    "south": "howsex:blocks/ziemokrzem",
+    "west": "howsex:blocks/ziemokrzem",
+    "particle": "howsex:blocks/ziemokrzem"
+  },
+  "render_type": "solid"
+}

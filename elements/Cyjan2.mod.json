@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:Cyjanek"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.WATER_BUCKET"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:Cyjanowodor"
+    },
+    "name": "cyjan_2",
+    "namespace": "mod"
+  }
+}
