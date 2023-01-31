@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "howsex:blocks/silo",
+    "up": "howsex:blocks/silo",
+    "north": "howsex:blocks/silofront",
+    "east": "howsex:blocks/silo",
+    "south": "howsex:blocks/silo",
+    "west": "howsex:blocks/silo",
+    "particle": "howsex:blocks/silo"
+  },
+  "render_type": "solid"
+}

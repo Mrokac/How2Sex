@@ -1,0 +1,15 @@
+{
+  "howsex:nigger": {
+    "criteria": {
+      "nigger": "2023-01-29 18:47:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-01-29 18:47:14 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

@@ -5,15 +5,15 @@ import net.minecraft.world.item.UseAnim;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.entity.LivingEntity;
 
 import net.mcreator.howsex.procedures.PenisLivingEntityIsHitWithItemProcedure;
+import net.mcreator.howsex.init.HowsexModTabs;
 
 public class PenisItem extends Item {
 	public PenisItem() {
-		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(1).rarity(Rarity.EPIC)
+		super(new Item.Properties().tab(HowsexModTabs.TAB_HOW_2_SEX_TAB).stacksTo(1).rarity(Rarity.EPIC)
 				.food((new FoodProperties.Builder()).nutrition(-1).saturationMod(-1f).alwaysEat().meat().build()));
 	}
 

@@ -1,0 +1,46 @@
+{
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-01-30 19:04:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-01-30 19:07:17 +0100"
+    },
+    "done": true
+  },
+  "howsex:nigger": {
+    "criteria": {
+      "nigger": "2023-01-30 19:03:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-01-30 19:04:11 +0100"
+    },
+    "done": true
+  },
+  "howsex:siur": {
+    "criteria": {
+      "siur": "2023-01-30 19:03:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2023-01-30 19:07:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2023-01-30 19:03:31 +0100",
+      "minecraft:plains": "2023-01-30 19:04:22 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

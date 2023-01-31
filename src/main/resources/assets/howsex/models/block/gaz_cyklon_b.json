@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "howsex:blocks/cyklon_b_w_formie_gazowej_hurra",
+    "particle": "howsex:blocks/cyklon_b_w_formie_gazowej_hurra"
+  },
+  "render_type": "translucent"
+}

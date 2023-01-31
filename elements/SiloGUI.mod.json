@@ -1,0 +1,89 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Silo",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Silo",
+          "x": 132,
+          "y": 41
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 137,
+          "y": 57
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 137,
+          "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Missle",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Missle",
+          "x": 161,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Coords",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Coords",
+          "x": 161,
+          "y": 95
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

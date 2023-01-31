@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-01-29 20:30:07 +0100"
+    },
+    "done": true
+  },
+  "howsex:nigger": {
+    "criteria": {
+      "nigger": "2023-01-29 20:24:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-01-29 20:30:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2023-01-29 20:24:28 +0100",
+      "minecraft:warm_ocean": "2023-01-29 20:25:15 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
