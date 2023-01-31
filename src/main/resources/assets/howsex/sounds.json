@@ -1,10 +1,37 @@
 {
-  "odkurzacz": {
+  "silo-alarm": {
     "category": "neutral",
-    "subtitle": "subtitles.odkurzacz",
     "sounds": [
       {
-        "name": "howsex:vacuum_online-audio-converter.com",
+        "name": "howsex:silo-alarm",
+        "stream": false
+      }
+    ]
+  },
+  "silo-rocket": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "howsex:silo-rocket",
+        "stream": false
+      }
+    ]
+  },
+  "silo-platform-error": {
+    "category": "neutral",
+    "subtitle": "subtitles.silo-platform-error",
+    "sounds": [
+      {
+        "name": "howsex:silo-platform-error",
+        "stream": false
+      }
+    ]
+  },
+  "nut": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "howsex:nut.",
         "stream": false
       }
     ]
