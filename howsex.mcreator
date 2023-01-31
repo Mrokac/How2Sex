@@ -9,36 +9,28 @@
       "registry_name": "nigger"
     },
     {
-      "name": "IntercontinentalThermonuclearBallisticMissile",
-      "type": "livingentity",
+      "name": "Prysznic",
+      "type": "achievement",
       "sortid": 2,
       "compiles": true,
-      "locked_code": true,
-      "registry_name": "intercontinental_thermonuclear_ballistic_missile"
+      "locked_code": false,
+      "registry_name": "prysznic"
     },
     {
-      "name": "Lalka",
+      "name": "Wyjdznadwor",
       "type": "achievement",
-      "sortid": 10,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lalka"
+      "registry_name": "wyjdznadwor"
     },
     {
-      "name": "OHOHOH",
+      "name": "Cucumber",
       "type": "achievement",
-      "sortid": 11,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ohohoh"
-    },
-    {
-      "name": "Siur",
-      "type": "achievement",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "siur"
+      "registry_name": "cucumber"
     },
     {
       "name": "Branieprzysnica",
@@ -65,44 +57,12 @@
       "registry_name": "pedo"
     },
     {
-      "name": "Penis",
-      "type": "item",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "penis"
-    },
-    {
-      "name": "Prysznic",
-      "type": "achievement",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "prysznic"
-    },
-    {
-      "name": "Sex",
-      "type": "achievement",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sex"
-    },
-    {
       "name": "Furry",
       "type": "achievement",
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furry"
-    },
-    {
-      "name": "Cucumber",
-      "type": "achievement",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cucumber"
     },
     {
       "name": "PenisLivingEntityIsHitWithItem",
@@ -125,252 +85,44 @@
       }
     },
     {
-      "name": "RocketSilo",
-      "type": "block",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rocket_silo"
-    },
-    {
-      "name": "SiloGUI",
-      "type": "gui",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "silo_gui"
-    },
-    {
-      "name": "RocketSiloRedstoneOn",
-      "type": "procedure",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "rocket_silo_redstone_on",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Reee",
-      "type": "procedure",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "reee",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "itemstack",
-            "type": "itemstack"
-          }
-        ]
-      }
-    },
-    {
-      "name": "How2SexTab",
-      "type": "tab",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "how_2_sex_tab"
-    },
-    {
-      "name": "JewFormSubmit",
-      "type": "procedure",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jew_form_submit",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "guistate",
-            "type": "map"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Question",
-      "type": "gui",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "question"
-    },
-    {
-      "name": "GPSLocatorRightclickedOnBlock",
-      "type": "procedure",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gps_locator_rightclicked_on_block",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "itemstack",
-            "type": "itemstack"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "GPSLocator",
+      "name": "Penis",
       "type": "item",
-      "sortid": 16,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "gps_locator"
+      "registry_name": "penis"
     },
     {
-      "name": "OpenJewForm",
-      "type": "procedure",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "open_jew_form",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "BasicMissleItem",
-      "type": "item",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "basic_missile_item"
-    },
-    {
-      "name": "ExplosionMaker",
-      "type": "procedure",
-      "sortid": 20,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "explosion_maker",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "GazCyklonBUpdateTick",
-      "type": "procedure",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gaz_cyklon_b_update_tick",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "GazCyklonB",
-      "type": "block",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gaz_cyklon_b"
-    },
-    {
-      "name": "Wyjdznadwor",
+      "name": "Siur",
       "type": "achievement",
-      "sortid": 3,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "wyjdznadwor"
+      "registry_name": "siur"
+    },
+    {
+      "name": "Sex",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sex"
+    },
+    {
+      "name": "Lalka",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lalka"
+    },
+    {
+      "name": "OHOHOH",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ohohoh"
     },
     {
       "name": "Okrzemki",
@@ -611,6 +363,254 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyklon"
+    },
+    {
+      "name": "GazCyklonB",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaz_cyklon_b"
+    },
+    {
+      "name": "ExplosionMaker",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "explosion_maker",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketSiloRedstoneOn",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rocket_silo_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IntercontinentalThermonuclearBallisticMissile",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "intercontinental_thermonuclear_ballistic_missile"
+    },
+    {
+      "name": "BasicMissleItem",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basic_missile_item"
+    },
+    {
+      "name": "RocketSilo",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_silo"
+    },
+    {
+      "name": "GPSLocator",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gps_locator"
+    },
+    {
+      "name": "JewFormSubmit",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jew_form_submit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "How2SexTab",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "how_2_sex_tab"
+    },
+    {
+      "name": "SiloGUI",
+      "type": "gui",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silo_gui"
+    },
+    {
+      "name": "Reee",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GPSLocatorRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gps_locator_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Question",
+      "type": "gui",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "question"
+    },
+    {
+      "name": "OpenJewForm",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_jew_form",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GazCyklonBUpdateTick",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaz_cyklon_b_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [
@@ -622,14 +622,6 @@
     }
   ],
   "sound_elements": [
-    {
-      "name": "silo-alarm",
-      "files": [
-        "silo-alarm"
-      ],
-      "category": "neutral",
-      "subtitle": ""
-    },
     {
       "name": "silo-rocket",
       "files": [
@@ -645,6 +637,14 @@
       ],
       "category": "neutral",
       "subtitle": "Error! Launch failed! Launch platform not good!"
+    },
+    {
+      "name": "silo-alarm",
+      "files": [
+        "silo-alarm"
+      ],
+      "category": "neutral",
+      "subtitle": ""
     },
     {
       "name": "nut",

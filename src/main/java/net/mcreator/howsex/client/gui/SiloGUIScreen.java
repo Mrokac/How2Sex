@@ -1,23 +1,10 @@
 
 package net.mcreator.howsex.client.gui;
 
-import net.minecraft.world.level.Level;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.player.Inventory;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.network.chat.Component;
-import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
-import net.minecraft.client.Minecraft;
-
-import net.mcreator.howsex.world.inventory.SiloGUIMenu;
-
-import java.util.HashMap;
-
-import com.mojang.blaze3d.vertex.PoseStack;
-import com.mojang.blaze3d.systems.RenderSystem;
-
 public class SiloGUIScreen extends AbstractContainerScreen<SiloGUIMenu> {
+
 	private final static HashMap<String, Object> guistate = SiloGUIMenu.guistate;
+
 	private final Level world;
 	private final int x, y, z;
 	private final Player entity;
@@ -40,6 +27,7 @@ public class SiloGUIScreen extends AbstractContainerScreen<SiloGUIMenu> {
 		this.renderBackground(ms);
 		super.render(ms, mouseX, mouseY, partialTicks);
 		this.renderTooltip(ms, mouseX, mouseY);
+
 	}
 
 	@Override
@@ -47,8 +35,10 @@ public class SiloGUIScreen extends AbstractContainerScreen<SiloGUIMenu> {
 		RenderSystem.setShaderColor(1, 1, 1, 1);
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
+
 		RenderSystem.setShaderTexture(0, texture);
 		this.blit(ms, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
+
 		RenderSystem.disableBlend();
 	}
 
@@ -58,6 +48,7 @@ public class SiloGUIScreen extends AbstractContainerScreen<SiloGUIMenu> {
 			this.minecraft.player.closeContainer();
 			return true;
 		}
+
 		return super.keyPressed(key, b, c);
 	}
 
@@ -82,6 +73,9 @@ public class SiloGUIScreen extends AbstractContainerScreen<SiloGUIMenu> {
 	@Override
 	public void init() {
 		super.init();
+
 		this.minecraft.keyboardHandler.setSendRepeatsToGui(true);
+
 	}
+
 }

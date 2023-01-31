@@ -29,8 +29,8 @@ import net.mcreator.howsex.HowsexMod;
 public class HowsexModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, HowsexMod.MODID);
 	public static final RegistryObject<Item> PENIS = REGISTRY.register("penis", () -> new PenisItem());
-	public static final RegistryObject<Item> ROCKET_SILO = block(HowsexModBlocks.ROCKET_SILO, HowsexModTabs.TAB_HOW_2_SEX_TAB);
 	public static final RegistryObject<Item> OKRZEMKI = REGISTRY.register("okrzemki", () -> new OkrzemkiItem());
+	public static final RegistryObject<Item> ROCKET_SILO = block(HowsexModBlocks.ROCKET_SILO, HowsexModTabs.TAB_HOW_2_SEX_TAB);
 	public static final RegistryObject<Item> OPAL = REGISTRY.register("opal", () -> new OpalItem());
 	public static final RegistryObject<Item> GPS_LOCATOR = REGISTRY.register("gps_locator", () -> new GPSLocatorItem());
 	public static final RegistryObject<Item> PANCERZYK_OKRZEMEK = REGISTRY.register("pancerzyk_okrzemek", () -> new PancerzykOkrzemekItem());

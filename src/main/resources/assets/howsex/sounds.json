@@ -1,13 +1,4 @@
 {
-  "silo-alarm": {
-    "category": "neutral",
-    "sounds": [
-      {
-        "name": "howsex:silo-alarm",
-        "stream": false
-      }
-    ]
-  },
   "silo-rocket": {
     "category": "neutral",
     "sounds": [
@@ -23,6 +14,15 @@
     "sounds": [
       {
         "name": "howsex:silo-platform-error",
+        "stream": false
+      }
+    ]
+  },
+  "silo-alarm": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "howsex:silo-alarm",
         "stream": false
       }
     ]

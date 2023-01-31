@@ -1,12 +1,8 @@
 package net.mcreator.howsex.procedures;
 
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.client.gui.components.Checkbox;
+import net.minecraftforge.eventbus.api.Event;
 
-import net.mcreator.howsex.network.HowsexModVariables;
-
-import java.util.HashMap;
+import javax.annotation.Nullable;
 
 public class JewFormSubmitProcedure {
 	public static void execute(Entity entity, HashMap guistate) {
